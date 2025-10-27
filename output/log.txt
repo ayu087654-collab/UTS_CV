@@ -1,0 +1,11 @@
+=== LOG HASIL TRANSFORMASI ===
+Run time: 2025-10-27 15:24:54.527427
+
+Hasil disimpan:
+1_translasi.jpg  -> translasi (geser)
+2_rotasi.jpg     -> rotasi 45 derajat
+3_resize.jpg     -> ubah ukuran 0.5x
+4_crop.jpg       -> crop bagian tengah
+5_add.jpg        -> penjumlahan gambar
+6_bitwise_and.jpg-> masking bitwise
+7_final.jpg      -> hasil akhir (gabungan)
