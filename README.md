@@ -18,20 +18,4 @@ Transformasi yang diterapkan meliputi:
 5. Operasi cv2.add()
 6. Operasi cv2.bitwise_and()
 
-Struktur Folder
-UTS_CV/
-│
-├── sapi.png
-├── background.jpg
-├── transformasi_sapi_auto.py
-├── output/
-│   ├── translasi.PNG
-│   ├── rotasi.PNG
-│   ├── resize.PNG
-│   ├── crop.PNG
-│   ├── add.PNG
-│   ├── bitwise_and.PNG
-│   ├── final_result.PNG    
-│   └── log.txt
-└── README.md
 
